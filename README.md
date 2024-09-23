@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @grimygary
+- 👋 Hi, I’m @CodingLikeGary
 - 👀 I’m interested in learing how i can create programs
 - 🌱 I’m currently learning the very basics to coding
 - 💞️ I’m looking to collaborate on anything i just want to learn from people who are willing to teach
